@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="footer-container">
         {/* Left Section */}
         <div className="footer-section">
-          <h3 className="footer-title">Black Apex Global</h3>
+          <h3 className="footer-title">Aegis Gate International</h3>
           <p className="footer-text">
             <i className="fas fa-map-marker-alt"></i> Hong Kong
           </p>
@@ -29,10 +29,10 @@ export default function Footer() {
         <div className="footer-section">
           <h4 className="footer-title">Get in Touch</h4>
           <p className="footer-text">
-            <i className="fas fa-globe"></i> <a className="links" href="https://www.Blackapexglobal.com" target="_blank" rel="noopener noreferrer">www.Blackapexglobal.com</a>
+            <i className="fas fa-globe"></i> <a className="links" href="https://www.aegisgateinternational.com" target="_blank" rel="noopener noreferrer">www.aegisgateinternational.com</a>
           </p>
           <p className="footer-text">
-            <i className="fas fa-at"></i> <a className="links" href="mailto:info@Blackapexglobal.com">info@Blackapexglobal.com</a>
+            <i className="fas fa-at"></i> <a className="links" href="mailto:info@aegisgateinternational.com">info@aegisgateinternational.com</a>
           </p>
         </div>
 
@@ -40,10 +40,10 @@ export default function Footer() {
         <div className="footer-section">
           <h4 className="footer-title">Follow Us</h4>
           <p className="footer-text">
-            <i className="fab fa-instagram"></i> <a className="links" href="https://www.instagram.com/blackapexglobal" target="_blank" rel="noopener noreferrer">Instagram</a>
+            <i className="fab fa-instagram"></i> <a className="links" href="https://www.instagram.com/aegisgateinternational" target="_blank" rel="noopener noreferrer">Instagram</a>
           </p>
           <p className="footer-text">
-            <i className="fab fa-linkedin"></i> <a className="links" href="https://www.linkedin.com/company/black-apex-global/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <i className="fab fa-linkedin"></i> <a className="links" href="https://www.linkedin.com/company/aegis-gate-international/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </p>
           <p className="footer-text">
             <i className="fab fa-facebook"></i> <a className="links" href="https://www.facebook.com/share/19GwUecv2b/" target="_blank" rel="noopener noreferrer">Facebook</a>
@@ -55,7 +55,7 @@ export default function Footer() {
 
       {/* Bottom Bar */}
       <div className="footer-bottom">
-        <p>Copyright © 2025 - Black Apex Global - All Rights Reserved.</p>
+        <p>Copyright © 2025 - Aegis Gate International - All Rights Reserved.</p>
       </div>
     </footer>
   );

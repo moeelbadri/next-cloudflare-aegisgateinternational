@@ -8,7 +8,7 @@ export default function Home() {
         <div className="overlay"></div>
         <div className="content">
           <h1>
-          BLACK APEX GLOBAL
+          AEGIS GATE INTERNATIONAL
           </h1>
           <p>
           "Moving The World Forward."
@@ -20,12 +20,12 @@ export default function Home() {
         <h2 className="about-us-title">About Us</h2>
         <div className="about-us-wrapper">
           <div className="about-us-content">
-            <h3 style={{ fontSize: '1.5rem', marginBottom: '1rem', fontWeight: 'bold' }}>Black Apex Global</h3>
+            <h3 style={{ fontSize: '1.5rem', marginBottom: '1rem', fontWeight: 'bold' }}>Aegis Gate International</h3>
             <p style={{ fontSize: '1.1rem', marginBottom: '1rem', fontStyle: 'italic', color: '#666' }}>
               Parts • Power • Industrial Solutions
             </p>
             <p>
-              Black Apex Global is a multinational sourcing and supply company focused on heavy equipment ecosystems and industrial components, not on selling complete vehicles.
+              Aegis Gate International is a multinational sourcing and supply company focused on heavy equipment ecosystems and industrial components, not on selling complete vehicles.
             </p>
             <p>
               We support construction fleets, industrial operators, railway projects, and civil aviation by providing:
@@ -37,7 +37,7 @@ export default function Home() {
               <li>Selected railway, industrial, and civil-use aviation components</li>
             </ul>
             <p>
-              Black Apex Global is structured through international hubs across key markets, enabling us to serve clients in the Middle East, Africa, Europe, and Asia. We work with vetted manufacturers and production partners, and we manage the entire journey from technical specification and supplier selection to inspection, packing, and delivery.
+              Aegis Gate International is structured through international hubs across key markets, enabling us to serve clients in the Middle East, Africa, Europe, and Asia. We work with vetted manufacturers and production partners, and we manage the entire journey from technical specification and supplier selection to inspection, packing, and delivery.
             </p>
             <p style={{ marginTop: '1rem', fontWeight: '500' }}>
               Our role is simple: We connect serious projects with serious suppliers — reliably, quietly, and professionally.

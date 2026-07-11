@@ -17,12 +17,12 @@ export default function Home() {
         <div className="about-intro-container">
           <div className="intro-card">
             <div className="intro-header">
-              <h2 className="intro-title">Black Apex Global</h2>
+              <h2 className="intro-title">Aegis Gate International</h2>
               <p className="intro-tagline">Parts • Power • Industrial Solutions</p>
             </div>
             <div className="intro-content">
               <p className="intro-text">
-                Black Apex Global is a multinational sourcing and supply company focused on heavy equipment ecosystems and industrial components, not on selling complete vehicles.
+                Aegis Gate International is a multinational sourcing and supply company focused on heavy equipment ecosystems and industrial components, not on selling complete vehicles.
               </p>
               <p className="intro-text">
                 We support construction fleets, industrial operators, railway projects, and civil aviation by providing:
@@ -42,7 +42,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="intro-text">
-                Black Apex Global is structured through international hubs across key markets, enabling us to serve clients in the Middle East, Africa, Europe, and Asia. We work with vetted manufacturers and production partners, and we manage the entire journey from technical specification and supplier selection to inspection, packing, and delivery.
+                Aegis Gate International is structured through international hubs across key markets, enabling us to serve clients in the Middle East, Africa, Europe, and Asia. We work with vetted manufacturers and production partners, and we manage the entire journey from technical specification and supplier selection to inspection, packing, and delivery.
               </p>
               <div className="mission-statement">
                 <p>Our role is simple: We connect serious projects with serious suppliers — reliably, quietly, and professionally.</p>
@@ -59,7 +59,7 @@ export default function Home() {
           <div className="overview-cards">
             <div className="overview-card">
               <h3>Global Reach</h3>
-              <p>Black Apex Global (BAG) is a multinational sourcing and supply company focused on heavy equipment ecosystems and industrial components. We support construction fleets, industrial operators, railway projects, and civil aviation through the supply of spare parts, accessories, diesel engines, and diesel generators.</p>
+              <p>Aegis Gate International (AGI) is a multinational sourcing and supply company focused on heavy equipment ecosystems and industrial components. We support construction fleets, industrial operators, railway projects, and civil aviation through the supply of spare parts, accessories, diesel engines, and diesel generators.</p>
             </div>
             <div className="overview-card">
               <h3>Trusted Partnerships</h3>
@@ -169,7 +169,7 @@ export default function Home() {
           <div className="partnership-card">
             <h2 className="section-title-modern">Partnership Approach</h2>
             <p className="partnership-text">
-              Black Apex Global positions itself as a long-term technical and commercial partner, not just a supplier. Our goal is to help clients reduce downtime, protect assets, and optimize lifecycle cost through the right combination of parts, engines, tools, and project-based supply solutions.
+              Aegis Gate International positions itself as a long-term technical and commercial partner, not just a supplier. Our goal is to help clients reduce downtime, protect assets, and optimize lifecycle cost through the right combination of parts, engines, tools, and project-based supply solutions.
             </p>
           </div>
         </div>
@@ -180,7 +180,7 @@ export default function Home() {
         <div className="about-container">
           <h2 className="section-title-modern">Our Plan of Execution</h2>
           <p className="execution-intro">
-            To translate our vision and mission into reality, Black Apex Global follows a clear, practical execution plan built around four pillars:
+            To translate our vision and mission into reality, Aegis Gate International follows a clear, practical execution plan built around four pillars:
           </p>
           <div className="execution-block">
             <div className="execution-step">

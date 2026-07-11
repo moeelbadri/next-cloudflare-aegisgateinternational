@@ -15,5 +15,8 @@
 	"observability": {
 		"enabled": true
 	},
+	"cache": {
+		"enabled": false
+	},
 	"upload_source_maps": true
 }

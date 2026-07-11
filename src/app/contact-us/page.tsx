@@ -31,27 +31,27 @@ export default function Home() {
         <div className="contact-card">
           <div className="icon"><i className="fas fa-globe"></i></div>
           <h3>Website</h3>
-          <p><a href="https://www.Blackapexglobal.com" target="_blank" rel="noopener noreferrer">www.Blackapexglobal.com</a></p>
+          <p><a href="https://www.aegisgateinternational.com" target="_blank" rel="noopener noreferrer">www.aegisgateinternational.com</a></p>
         </div>
         <div className="contact-card">
           <div className="icon"><i className="fas fa-at"></i></div>
           <h3>Email</h3>
-          <p><a href="mailto:info@Blackapexglobal.com">info@Blackapexglobal.com</a></p>
+          <p><a href="mailto:info@aegisgateinternational.com">info@aegisgateinternational.com</a></p>
         </div>
         <div className="contact-card">
           <div className="icon"><i className="fab fa-instagram"></i></div>
           <h3>Instagram</h3>
-          <p><a href="https://www.instagram.com/blackapexglobal" target="_blank" rel="noopener noreferrer">@blackapexglobal</a></p>
+          <p><a href="https://www.instagram.com/aegisgateinternational" target="_blank" rel="noopener noreferrer">@aegisgateinternational</a></p>
         </div>
         <div className="contact-card">
           <div className="icon"><i className="fab fa-linkedin"></i></div>
           <h3>LinkedIn</h3>
-          <p><a href="https://www.linkedin.com/company/black-apex-global/" target="_blank" rel="noopener noreferrer">Black Apex Global</a></p>
+          <p><a href="https://www.linkedin.com/company/aegis-gate-international/" target="_blank" rel="noopener noreferrer">Aegis Gate International</a></p>
         </div>
         <div className="contact-card">
           <div className="icon"><i className="fab fa-facebook"></i></div>
           <h3>Facebook</h3>
-          <p><a href="https://www.facebook.com/share/19GwUecv2b/" target="_blank" rel="noopener noreferrer">Black Apex Global</a></p>
+          <p><a href="https://www.facebook.com/share/19GwUecv2b/" target="_blank" rel="noopener noreferrer">Aegis Gate International</a></p>
         </div>
       </div>
 

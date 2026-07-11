@@ -19,8 +19,8 @@ const karla = Karla({
 });
 
 export const metadata: Metadata = {
-  title: "Black Apex Global",
-  description: "Black Apex Global is a multinational sourcing and supply company focused on heavy equipment ecosystems and industrial components, not on selling complete vehicles.",
+  title: "Aegis Gate International",
+  description: "Aegis Gate International is a multinational sourcing and supply company focused on heavy equipment ecosystems and industrial components, not on selling complete vehicles.",
 };
 
 export default function RootLayout({
