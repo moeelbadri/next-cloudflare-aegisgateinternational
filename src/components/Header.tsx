@@ -16,7 +16,7 @@ export default function Header() {
         <div className="top-header letterhead-header">
           <div className="left-section">
               <Link href="/" className="logo-link">
-              <img src="/logo-bg.png" alt="Logo" className="logo" />
+              <img src="/logo-bg.png" alt="Aegis Gate International" className="logo" />
               </Link>
           </div>
           {/* Replace "Logo" with an image */}
